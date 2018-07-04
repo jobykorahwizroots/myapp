@@ -1,0 +1,23 @@
+
+{
+    "myappApp": {
+        "designation" : {
+            "home": {
+                "title": "Designations",
+                "createLabel": "Lisa uus Designation",
+                "createOrEditLabel": "Lisa või muuda Designation"
+            },
+            "created": "Uus Designation on loodud identifikaatoriga {{ param }}",
+            "updated": "Designation identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Designation identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Designation {{ id }}?"
+            },
+            "detail": {
+                "title": "Designation"
+            },
+            "name": "Name",
+            "user": "User"
+        }
+    }
+}

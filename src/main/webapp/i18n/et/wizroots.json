@@ -1,0 +1,26 @@
+
+{
+    "myappApp": {
+        "wizroots" : {
+            "home": {
+                "title": "Wizroots",
+                "createLabel": "Lisa uus Wizroots",
+                "createOrEditLabel": "Lisa või muuda Wizroots"
+            },
+            "created": "Uus Wizroots on loodud identifikaatoriga {{ param }}",
+            "updated": "Wizroots identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Wizroots identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Wizroots {{ id }}?"
+            },
+            "detail": {
+                "title": "Wizroots"
+            },
+            "name": "Name",
+            "dob": "Dob",
+            "place": "Place",
+            "address": "Address",
+            "designation": "Designation"
+        }
+    }
+}
